@@ -18,7 +18,6 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
 
 ![Alt text](./1.png "Optional title")
 
@@ -36,4 +35,8 @@
 
 ![Alt text](./8.png "Optional title")
 
+![Alt text](./passwd.png "Optional title")
+
 ![Alt text](./9.png "Optional title")
+
+
